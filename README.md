@@ -20,3 +20,11 @@ Will start the server at [http://localhost:8000](http://localhost:8000)
 - Each list is sorted on the basis of date and if it is completed or not
 
 - See detail of each task
+
+![](Git-Images/img1.jpg)
+![](Git-Images/img2.jpg)
+![](Git-Images/img3.jpg)
+![](Git-Images/img4.jpg)
+![](Git-Images/img5.jpg)
+
+## Clone this and enjoy!!
